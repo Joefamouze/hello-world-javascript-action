@@ -1,2 +1,2 @@
 # hello-world-javascript-action
-This file should be written with J's
+This file should be written with Js
